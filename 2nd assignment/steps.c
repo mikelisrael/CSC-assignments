@@ -1,31 +1,46 @@
 #include <stdio.h>
 
+// input .in file
+#define INPUT_FILE "adam.in"
+
 int main()
 {
-    // collect input
-    printf("Enter a string with Us and Ds: ");
-    char s[100];
-    scanf("%s", s);
-
-    // convert string to lowercase
-    for (int i = 0; s[i] != '\0'; i++)
+    // if file is null
+    if (fopen(INPUT_FILE, "r") == NULL)
     {
-        if (s[i] >= 'A' && s[i] <= 'Z')
+        // print error
+        printf("Error: File not found!");
+        // exit program
+        return 1;
+    }
+
+    // open file
+    FILE *file = fopen(INPUT_FILE, "r");
+
+    // read each line of file
+    char line[256];
+    while (fgets(line, sizeof(line), file))
+    {
+        // convert line to lowercase
+        for (int i = 0; line[i] != '\0'; i++)
         {
-            s[i] = s[i] + 32;
+            if (line[i] >= 'A' && line[i] <= 'Z')
+            {
+                line[i] = line[i] + 32;
+            }
         }
+
+        int number_of_steps = 0;
+
+        // while s[i] is not D, increment number_of_steps
+        for (int i = 0; line[i] != 'd'; i++)
+        {
+            number_of_steps++;
+        }
+
+        // print the result
+        printf("%s | Adam walked %i step(s) \n", line, number_of_steps);
     }
-
-    int number_of_steps = 0;
-
-    // while s[i] is not D, increment number_of_steps
-    for (int i = 0; s[i] != 'd'; i++)
-    {
-        number_of_steps++;
-    }
-
-    // print the result
-    printf("Adam walked %i step(s) \n", number_of_steps);
 
     return 0;
 }
