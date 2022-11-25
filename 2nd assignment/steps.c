@@ -18,7 +18,7 @@ int main()
     FILE *file = fopen(INPUT_FILE, "r");
 
     // read each line of file
-    char line[256];
+    char line[100];
     while (fgets(line, sizeof(line), file))
     {
         // convert line to lowercase
