@@ -1,0 +1,15 @@
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\bin\Debug\net7.0\3rd assignment in csharp.exe
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\bin\Debug\net7.0\3rd assignment in csharp.deps.json
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\bin\Debug\net7.0\3rd assignment in csharp.runtimeconfig.json
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\bin\Debug\net7.0\3rd assignment in csharp.dll
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\bin\Debug\net7.0\3rd assignment in csharp.pdb
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\3rd assignment in csharp.csproj.AssemblyReference.cache
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\3rd assignment in csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\3rd assignment in csharp.AssemblyInfoInputs.cache
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\3rd assignment in csharp.AssemblyInfo.cs
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\3rd assignment in csharp.csproj.CoreCompileInputs.cache
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\3rd assignment in csharp.dll
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\refint\3rd assignment in csharp.dll
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\3rd assignment in csharp.pdb
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\3rd assignment in csharp.genruntimeconfig.cache
+C:\Users\mikelisrael\Desktop\mikelisrael\school\courses\200lvl\CSC 235 - Introduction to Object Oriented Proogramming\codes\3rd assignment in csharp\obj\Debug\net7.0\ref\3rd assignment in csharp.dll
